@@ -52,6 +52,7 @@ header ul li a.active {
 }
 
 .dropdown {
+    background: white;
     display: none;
     padding: 10px 20px;
     position: absolute;
